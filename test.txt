@@ -1,6 +1,1 @@
-aaa
-
-git commit --amend
-
-
-git merge 
+pullrequestを追記
