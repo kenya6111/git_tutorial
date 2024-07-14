@@ -2,3 +2,5 @@ aaa
 
 git commit --amend
 
+
+git merge 
